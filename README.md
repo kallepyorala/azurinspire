@@ -1,9 +1,7 @@
 ### Hi, 
-I’m professional full stack developer since 1999. I’m from ☃️Finland but I’ve been living in 🥖France for ten years now.
+I’m frontend developer in [Scaleup Finance](https://scaleup.finance). I’m orginally from ☃️Finland but I’ve been living in 🥖France since 2012.
 
-In my recent projects I’ve been using React, VueJS and Typescript for front end and Laravel and Postgres for backends. I have also developed couple of mobile applications with React Native.
-
-I'm currently available for hire and I'm interested in both part time and full time propositions. I do only remote work from my home office and I am employee of salary portal [Embarq](https://www.embarq.fr), which can invoice my work internationally.
+I use Svelte, React and Vue with Typescript, and I'm also experienced in Laravel and Postgres.
 
 ### Links
 
