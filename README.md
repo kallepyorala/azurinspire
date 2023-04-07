@@ -5,7 +5,7 @@ I use Svelte, React and Vue with Typescript, and I'm also experienced in Laravel
 
 ### Links
 
-[My Website](https://www.azurinspire.com) | [Twitter](https://www.twitter.com/AzurInspire) | [LinkedIn](https://www.linkedin.com/in/azurinspire) | [Instagram](https://www.instagram.com/kallepyorala)
+[My Website](https://kallepyorala.com) | [Twitter](https://www.twitter.com/KallePyorala) | [LinkedIn](https://www.linkedin.com/in/azurinspire) | [Instagram](https://www.instagram.com/kallepyorala)
 
 ### Techonologies I use
 
